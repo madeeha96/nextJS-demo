@@ -3,7 +3,6 @@ import Link from 'next/link'
 const linkStyle = {
   marginRight: 15
 }
-//check 123534
 const Header = () => (
     <div>
         <Link href="/">
